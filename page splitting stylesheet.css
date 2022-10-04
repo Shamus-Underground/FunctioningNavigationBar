@@ -1,0 +1,190 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  
+  
+  
+  #a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#b {
+    background: rgba(127, 127, 127);
+    width: 100%;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+
+
+
+#first_half {
+    background: rgb(69, 80, 240);
+    width: 50%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+
+#second_half {
+    background: rgb(0, 0, 255);
+    width: 50%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+
+
+
+
+
+#first_third {
+    background: rgb(214, 153, 60);
+    width: 33.333%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+
+#second_third {
+    background: rgb(253, 135, 1);
+    width: 33.333%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+#third_third {
+    background: rgb(134, 87, 33);
+    width: 33.333%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+
+
+
+
+
+#first_fourth{
+    background: rgb(78, 6, 6);
+    width: 25%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+#second_fourth{
+    background: rgb(211, 99, 118);
+    width: 25%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+#third_fourth{
+    background: rgb(116, 2, 2);
+    width: 25%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+#fourth_fourth{
+    background: rgb(255, 0, 0);
+    width: 25%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+
+
+
+
+#first_fifth{
+    background: rgb(0, 255, 0);
+    width: 20%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+#second_fifth{
+    background: rgb(20, 107, 3);
+    width: 20%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+#third_fifth{
+    background: rgb(85, 238, 106);
+    width: 20%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+#fourth_fifth{
+    background: rgb(5, 44, 1);
+    width: 20%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+#fifth_fifth{
+    background: rgb(88, 141, 92);
+    width: 20%;
+    float: right;
+    text-align: center;
+    padding: 800px 0;
+    font-size: 50px;
+}
+
+
+
+
+#footer{
+    background: purple;
+    width: 100%;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 50px 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    font-size: 50px
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 50px
+  }
+  
+  li a:hover {
+    background-color: #111;
+    font-size: 50px
+  }
